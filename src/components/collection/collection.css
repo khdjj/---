@@ -1,0 +1,310 @@
+.mercury-cont {
+	width: 1190px;
+	margin: 0 auto;
+}
+
+.fav-floatbar {
+	margin-bottom: 10px;
+	position: relative;
+	z-index: 50;
+}
+
+.fav-bar-height {
+	height: 48px;
+}
+
+.fav-bar-float {
+	height: 46px;
+	line-height: 46px;
+	border-bottom: #e5e5e5 2px solid;
+}
+
+.fav-floatbar .fav-select {
+	float: left;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+.fav-floatbar .fav-sel-item {
+	float: left;
+}
+
+blockquote,
+body,
+button,
+dd,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+input,
+legend,
+li,
+ol,
+p,
+pre,
+td,
+textarea,
+th,
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+user agent stylesheet li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+.fav-floatbar .fav-sel-select {
+	padding-bottom: 13px;
+	padding-right: 40px;
+	position: relative;
+	color: #f40;
+	border-bottom: #ff4200 2px solid;
+}
+
+address,
+cite,
+dfn,
+em,
+var {
+	font-style: normal;
+}
+
+#fav-list {
+	position: relative;
+	z-index: 3;
+}
+
+.img-item-list {
+	margin-right: -30px;
+}
+
+.fav-item {
+	height: 226px;
+	float: left;
+	text-align: center;
+	position: relative;
+	margin-bottom: 14px;
+}
+
+.g-i-item {
+	width: 150px;
+	margin-right: 23px;
+}
+
+.fav-item .img-controller-box {
+	border: #eee 1px solid;
+	margin-bottom: 11px;
+	height: 148px;
+	overflow: hidden;
+	position: relative;
+}
+
+div {
+	display: block;
+}
+
+.fav-item .img-controller-img-link {
+	width: 148px;
+	height: 148px;
+	display: block;
+	line-height: 145px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.fav-item .img-controller-img {
+	vertical-align: middle;
+	display: inline-block;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+fieldset,
+img {
+	border: 0;
+}
+
+.fav-item .img-item-title {
+	height: 23px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.fav-item .img-item-title .tmallicon {
+	vertical-align: middle;
+}
+
+.fav-item .img-item-title img {
+	vertical-align: middle;
+}
+
+.fav-item .img-item-title-link {
+	color: #3c3c3c;
+	font-size: 12px;
+}
+
+.fav-item .knockdown,
+.fav-item .price-container {
+	word-wrap: break-word;
+	word-break: normal;
+	height: 23px;
+	line-height: 23px;
+	overflow: hidden;
+}
+
+#mercury .g_price-box {
+	display: block;
+}
+
+#mercury .g_price-box .picon-c,
+#mercury .picon-c {
+	background-position: -24px 0;
+}
+
+#mercury .g_price-box .picon-c,
+#mercury .g_price-box .picon-j,
+#mercury .g_price-box .picon-jhs,
+#mercury .g_price-box .picon-tjb,
+#mercury .picon-c,
+#mercury .picon-j,
+#mercury .picon-jhs,
+#mercury .picon-tjb {
+	height: 17px;
+	line-height: 17px;
+	vertical-align: middle;
+	display: inline-block;
+	*display: inline;
+	width: 16px;
+	overflow: hidden;
+}
+
+#mercury .g_price-box .picon-c,
+#mercury .g_price-box .picon-j,
+#mercury .g_price-box .picon-jhs,
+#mercury .g_price-box .picon-tjb,
+#mercury .picon-c,
+#mercury .picon-j,
+#mercury .picon-jhs,
+#mercury .picon-tjb {
+	background: url(//img.alicdn.com/tps/i2/TB1CayVHXXXXXaDXXXX.2vyPVXX-41-793.png) -9999px -9999px no-repeat;
+}
+
+#mercury .g_price-box div {
+	display: inline;
+	color: #6c6c6c;
+}
+
+#mercury .g_price-box div {
+	display: inline;
+	color: #6c6c6c;
+}
+
+#mercury .g_price {
+	font-family: arial;
+}
+
+#mercury .g_price span {
+	color: #f40;
+	margin-right: 0;
+}
+
+#mercury .g_price-box div {
+	display: inline;
+	color: #6c6c6c;
+}
+
+#mercury .g_price {
+	font-family: arial;
+}
+
+#mercury .g_price strong {
+	color: #f40;
+	font-weight: 700;
+	font-family: verdana, arial;
+}
+
+#mercury .g_price-box div {
+	display: inline;
+	color: #6c6c6c;
+}
+
+#mercury .g_price-original {
+	text-decoration: line-through;
+	white-space: nowrap;
+	color: #9c9c9c;
+	font-weight: 400;
+}
+
+#mercury .g_price-original span {
+	color: #9c9c9c;
+}
+
+#mercury .g_price-box div {
+	display: inline;
+	color: #6c6c6c;
+}
+
+.g_price {
+	display: inline;
+	color: #6c6c6c;
+}
+
+.g_price {
+	font-family: arial;
+}
+
+.g_price span {
+	color: #f40;
+	margin-right: 0;
+	font-size: 12px;
+}
+
+.g_price strong {
+	color: #f40;
+	font-weight: 700;
+	font-family: verdana, arial;
+	font-size: 12px;
+}
+
+.g_price-original {
+	text-decoration: line-through;
+}
+
+.g_price-original span {
+	color: #9c9c9c !important;
+
+}
+
+/* 删除 */
+.delete-shop {
+	position: absolute;
+	width: 24px;
+	height: 25px;
+	top: 0px;
+	left: 124px;
+	background: url('../../assets/删除.jpg') 0 0 no-repeat #8e8585;
+	background-size: 18px 18px;
+	background-position: center;
+}
+
+.delete-shop:hover {
+	background: url('../../assets/删除.jpg') 0 0 no-repeat #ff3232;
+	background-size: 18px 18px;
+	background-position: center;
+}

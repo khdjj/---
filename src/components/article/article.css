@@ -1,0 +1,676 @@
+@CHARSET "UTF-8";
+
+#content {
+    margin-bottom: 10px;
+    width: 1200px;
+    margin: 0 auto 20px auto;
+}
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+a {
+    text-decoration: none;
+}
+.crumbs_nav span.line {
+    font-family: "宋体";
+    color: #999;
+    padding: 0 5px;
+}
+.gray9 {
+    color: #999;
+}
+.crumbs_nav {
+    color: #666;
+    font-size: 12px;
+    padding: 20px 0;
+}
+.box863 {
+    width: 863px;
+}
+
+.mr40 {
+    margin-right: 40px;
+}
+.fl {
+    float: left;
+}
+.ask-detail-text {
+    background: #FFF;
+    padding: 30px;
+}
+.raiders-detail .plate-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.raiders-detail .time {
+    line-height: 30px;
+    height: 30px;
+    color: #c2c2c2;
+    margin-bottom: 10px;
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -684px -693px;
+    padding-left: 22px;
+}
+.raiders-detail .summary {
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px 0;
+    line-height: 28px;
+    font-size: 16px;
+    color: #999;
+    text-indent: 32px;
+    margin-bottom: 50px;
+}
+.raiders-detail .summary {
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px 0;
+    line-height: 28px;
+    font-size: 16px;
+    color: #999;
+    text-indent: 32px;
+    margin-bottom: 50px;
+}
+.ask-detail-text .stitle .bt {
+    float: left;
+}
+strong {
+    font-weight: bold;
+}
+strong {
+    font-weight: bold;
+}
+.ask-detail-text .stitle {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.r-wzlist .r-imgbox {
+    position: relative;
+    width: 452px;
+    margin: 0 auto 15px auto;
+}
+.ask-detail-text .scont {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.g {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+i {
+    font-style: italic;
+}
+
+.ask-detail-text .stitle .bt {
+    float: left;
+}
+strong {
+    font-weight: bold;
+}
+.clearfix:after {
+    content: ".";
+    height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+}
+
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+.r-wzlist .r-imgbox {
+    position: relative;
+    width: 452px;
+    margin: 0 auto 15px auto;
+}
+.r-wzlist .r-imgbox .img-h {
+    width: 450px;
+    height: 450px;
+    border: 1px solid #f3f3f3;
+    margin: 0 auto;
+}
+.img-h {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+.r-wzlist .r-imgbox .likebut {
+    top: 20px;
+    right: 20px;
+}
+
+.likebut {
+    z-index: 100;
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -500px -252px;
+    height: 42px;
+    width: 42px;
+    line-height: 200px;
+    overflow: hidden;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 100;
+    opacity: 0.8;
+    display: none;
+}
+.mb40 {
+    margin-bottom: 40px;
+}
+.r-wzlist .r-button .price {
+    margin-right: 10px;
+    color: #8c8c8c;
+}
+.price {
+    color: #333;
+    margin-right: 20px;
+}
+.price {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fd3636;
+}
+.sy-but {
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat 0 -200px;
+    color: #f84e4e;
+    height: 34px;
+    width: 102px;
+    text-align: center;
+    line-height: 34px;
+    font-size: 16px;
+}
+
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+.g {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.ask-detail-text .stitle .bt {
+    float: left;
+}
+
+strong {
+    font-weight: bold;
+}
+user agent stylesheet
+strong {
+    font-weight: bold;
+}
+
+.ask-detail-text .scont {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.r-wzlist .r-imgbox {
+    position: relative;
+    width: 452px;
+    margin: 0 auto 15px auto;
+}
+.r-wzlist .r-imgbox .img-h {
+    width: 450px;
+    height: 450px;
+    border: 1px solid #f3f3f3;
+    margin: 0 auto;
+}
+.img-h {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+.r-wzlist .r-imgbox .img-h img {
+    width: 450px;
+    height: 450px;
+}
+.r-wzlist .r-imgbox .likebut {
+    top: 20px;
+    right: 20px;
+}
+.mb40 {
+    margin-bottom: 40px;
+}
+.r-wzlist .r-button .price {
+    margin-right: 10px;
+    color: #8c8c8c;
+}
+.price {
+    color: #333;
+    margin-right: 20px;
+}
+.price {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fd3636;
+}
+.sy-but {
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat 0 -200px;
+    color: #f84e4e;
+    height: 34px;
+    width: 102px;
+    text-align: center;
+    line-height: 34px;
+    font-size: 16px;
+}
+
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+.g {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.ask-detail-text .stitle .bt {
+    float: left;
+}
+strong {
+    font-weight: bold;
+}
+user agent stylesheet
+strong {
+    font-weight: bold;
+}
+
+.ask-detail-text .scont {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 28px;
+}
+.r-wzlist .r-imgbox {
+    position: relative;
+    width: 452px;
+    margin: 0 auto 15px auto;
+}
+.r-wzlist .r-imgbox .img-h {
+    width: 450px;
+    height: 450px;
+    border: 1px solid #f3f3f3;
+    margin: 0 auto;
+}
+.img-h {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+.r-wzlist .r-imgbox .likebut {
+    top: 20px;
+    right: 20px;
+}
+.likebut {
+    z-index: 100;
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -500px -252px;
+    height: 42px;
+    width: 42px;
+    line-height: 200px;
+    overflow: hidden;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 100;
+    opacity: 0.8;
+    display: none;
+}
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+.mb40 {
+    margin-bottom: 40px;
+}
+.uibox-01 {
+}
+.mt20 {
+    margin-top: 20px;
+}
+.uibox-01 .title {
+    height: 64px;
+    text-align: center;
+    background: #FFF;
+    line-height: 64px;
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 4px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.raiders-probox {
+    margin-bottom: 4px\9;
+}
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+ul, ol {
+    list-style: none;
+}
+.raiders-probox li {
+    float: left;
+    width: 337px;
+    height: 257px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    background: #FFF;
+    padding: 30px 30px 0 30px;
+    color: #c2c2c2;
+}
+.cont-detail .raiders-probox li.last {
+    margin-right: 0;
+    width: 369px;
+}
+.cont-detail .raiders-probox li {
+    width: 370px;
+    height: 300px;
+}
+.raiders-probox li.last {
+    margin-right: 0;
+}
+.raiders-probox li {
+    float: left;
+    width: 337px;
+    height: 257px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    background: #FFF;
+    padding: 30px 30px 0 30px;
+    color: #c2c2c2;
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.raiders-probox li dd.stitle {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.raiders-probox li dd {
+    line-height: 22px;
+}
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+dd {
+    display: block;
+    margin-inline-start: 40px;
+}
+.raiders-probox li {
+    float: left;
+    width: 337px;
+    height: 257px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    background: #FFF;
+    padding: 30px 30px 0 30px;
+    color: #c2c2c2;
+}
+
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.cont-detail .raiders-probox li.last {
+    margin-right: 0;
+    width: 369px;
+}
+.cont-detail .raiders-probox li {
+    width: 370px;
+    height: 300px;
+}
+.raiders-probox li.last {
+    margin-right: 0;
+}
+dl {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.morelinks {
+    height: 65px;
+    line-height: 65px;
+    font-size: 16px;
+    text-align: center;
+    background: #FFF;
+}
+.mt4 {
+    margin-top: 4px;
+}
+.gray9 {
+    color: #999;
+}
+.morelinks {
+    height: 65px;
+    line-height: 65px;
+    font-size: 16px;
+    text-align: center;
+    background: #FFF;
+}
+.box297 {
+    width: 297px;
+}
+.fl {
+    float: left;
+}
+.uibox-01 {
+}
+.uibox-01 .title {
+    height: 64px;
+    text-align: center;
+    background: #FFF;
+    line-height: 64px;
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 4px;
+}
+.uibox-01 .cont {
+    background: #FFF;
+    padding: 20px 30px;
+}
+.sell-well-box {
+}
+.clearfix {
+    display: block;
+}
+.clearfix {
+    display: inline-block;
+}
+ul, ol {
+    list-style: none;
+}
+.gray9 {
+    color: #999;
+}
+.morelinks {
+    height: 65px;
+    line-height: 65px;
+    font-size: 16px;
+    text-align: center;
+    background: #FFF;
+}
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+.bottom-links .likebox {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.uibox-01 {
+}
+.mt20 {
+    margin-top: 20px;
+}
+.uibox-01 .title {
+    height: 64px;
+    text-align: center;
+    background: #FFF;
+    line-height: 64px;
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 4px;
+}
+.cont-detail .raiders-probox li {
+    width: 370px;
+    height: 300px;
+}
+.clearfix:after {
+    content: ".";
+    height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+}
+.ask-detail-text .stitle {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.ask-detail-text .stitle .ico {
+    float: left;
+    width: 27px;
+    height: 32px;
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -400px -445px;
+    margin-right: 8px;
+    font-size: 24px;
+    color: #FFF;
+    font-style: normal;
+    text-align: center;
+    line-height: 22px;
+    font-weight: normal;
+}
+.bottom-links .likebox .zan-link {
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -200px -900px;
+}
+
+.bottom-links .likebox .like-link, .bottom-links .likebox .zan-link {
+    background: url(https://img.kekeliwu.com/static/www/images/icon_all.png) no-repeat -200px -900px;
+    width: 118px;
+    height: 118px;
+    line-height: 400px;
+    overflow: hidden;
+}
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+a {
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.bottom-links .likebox {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.raiders-probox li dd .num {
+    float: right;
+}
+.bottom-links .likebox {
+    text-align: center;
+    margin-bottom: 60px;
+}
+.bk {
+    display: table-cell;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+
