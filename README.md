@@ -19,3 +19,8 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+在线礼记系统
+
+旨在向苦恼于不知道送礼的人群推荐礼物，帮助他们更好地挑选适合对方的礼物
